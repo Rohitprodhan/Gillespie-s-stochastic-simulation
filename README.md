@@ -15,7 +15,7 @@ $$Y_1 + Y_2 \xrightarrow{c_2} 2Y_2$$
 
 $$Y_2\xrightarrow{c_3} \phi $$
 
-The deterministic reaction rate equations for the populations of the species Y_1 and Y_2 are
+The deterministic reaction rate equations for the populations of the species $Y_1$ and $Y_2$ are
 $$\dfrac{dY_1}{dt} = c_1Y_1 − c_2Y_1Y_2$$
 $$\dfrac{dY_2}{dt} = c_2Y_1Y_2 − c_3Y_2$$
 
